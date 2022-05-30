@@ -6,6 +6,10 @@
  
 </h1>
 
+<p align="left">
+  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views">  
+
+</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
@@ -17,10 +21,7 @@
 - 📫 How to reach me: ranaessam03@gmail.com
 - ⚡ Fun fact: i'm a basketball referee 
 
-<p align="left">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
 
-</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/rana-essam-a08760221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
