@@ -48,6 +48,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&locale=en" alt="RanaEssam03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ss&" alt="RanaEssam03" /></p>
+
 <!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 
