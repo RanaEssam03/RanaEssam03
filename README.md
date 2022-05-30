@@ -17,7 +17,7 @@
 
 
 - 🌱 I’m currently learning C++.
-- 💬 Ask me about debugging and testing any code written in cpp or py
+- 💬 Ask me about C++ and python
 - 📫 How to reach me: ranaessam03@gmail.com
 - ⚡ Fun fact: i'm a basketball referee 
 
