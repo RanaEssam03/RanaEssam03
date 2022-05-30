@@ -17,20 +17,24 @@
 - 📫 How to reach me: ranaessam03@gmail.com
 - ⚡ Fun fact: i'm a basketball referee 
 
+<p align="left">
+  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
 
+</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/rana-essam-a08760221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
 
-</p>
 
-## Competitive Programming 
+
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+## Education
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ## Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
@@ -38,7 +42,7 @@
 </div>
 
 ## Frameworks 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 
 ### :fire: My Stats :
