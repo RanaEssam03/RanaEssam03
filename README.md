@@ -33,9 +33,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
+
 ## Frameworks 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Q](https://img.shields.io/badge/qt-%23013243.svg?style=for-the-badge&logo=qt&logoColor=white)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
