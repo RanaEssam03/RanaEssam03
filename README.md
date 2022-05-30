@@ -23,4 +23,4 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
