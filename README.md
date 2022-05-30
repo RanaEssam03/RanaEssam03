@@ -51,7 +51,7 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&locale=en" alt="RanaEssam03" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ss&" alt="RanaEssam03" />
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss" alt="ss" /></a> </p>
 <!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 
