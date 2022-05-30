@@ -3,10 +3,9 @@
 <h1>
   hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
   
 </h1>
-
+<iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
 
 - 🌱 I’m currently learning at fucltuy of Computers and Artifial Intelligence.
 - 💬 Ask me about debugging and testing any code written in cpp or py
