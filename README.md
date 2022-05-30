@@ -40,7 +40,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
  
 </div>
- <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats) </p>
+
 
 ## Frameworks 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -50,6 +50,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&hide_border=true)](https://git.io/streak-stats)
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&locale=en" alt="RanaEssam03" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&locale=en" alt="RanaEssam03" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats) 
 
 
