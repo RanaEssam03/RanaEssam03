@@ -40,7 +40,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
  
 </div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats)
+ <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 ## Frameworks 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
