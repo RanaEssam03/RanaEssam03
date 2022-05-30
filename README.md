@@ -45,7 +45,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanaEssam03&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&locale=en" alt="RanaEssam03" /></p>
