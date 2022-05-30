@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p align="center">
+<p align="left">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
 
 </p>
