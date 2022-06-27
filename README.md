@@ -1,7 +1,7 @@
 
 
 <h1>
-  Hey there my name is Rana
+  Hey there, my name is Rana
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
  
 </h1>
