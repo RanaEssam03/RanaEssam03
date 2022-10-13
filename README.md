@@ -16,7 +16,6 @@
 
 
 
-- 🌱 I’m currently learning oop .
 - 💬 Ask me about C++ , python and Qt creator
 - 📫 How to reach me: ranaessam03@gmail.com
 - ⚡ Fun fact: I'm a basketball referee 
