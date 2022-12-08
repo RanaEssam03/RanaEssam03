@@ -21,14 +21,14 @@
 - ⚡ Fun fact: I'm a basketball referee 
 
 
-<div id="badges">
+<div id="badges" >
   <a href="https://www.linkedin.com/in/rana-essam-a08760221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
    ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=35&pause=1000&color=F751AF&background=FFA89A00&center=true&width=435&lines=Rana+Essam)](https://git.io/typing-svg)
-  https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+ 
   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
 
