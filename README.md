@@ -4,7 +4,7 @@
   <div id = "badges" align = "center">
   
    ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Charka+Petch&size=35&duration=1000&pause=1000&color=F751AF&background=FFDBDB00&center=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C;My+name+is+Rana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Charka+Petch&size=35&duration=3000&pause=700&color=F751AF&background=FFDBDB00&center=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C;My+name+is+Rana)](https://git.io/typing-svg)
  
   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
