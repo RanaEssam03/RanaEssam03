@@ -27,9 +27,7 @@
   </a>
 </div>
 
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=35&pause=1000&color=F751AF&background=FFA89A00&center=true&width=435&lines=Rana+Essam" alt="Typing SVG" /></a>
-  </div>
+
 ## Education
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
