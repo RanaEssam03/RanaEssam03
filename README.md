@@ -1,7 +1,7 @@
 
 
 <h1>
-  Hey there 👋, my name is Rana !
+  Hey there 👋, my name is <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=35&pause=1000&color=F751AF&background=FFA89A00&center=true&width=435&lines=Rana+Essam" alt="Typing SVG" /></a>
 
  
 </h1>
