@@ -61,10 +61,11 @@
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ss&show_icons=true&locale=en" alt="RanaEssam03" />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaEssam03)](https://github.com/anuraghazra/github-readme-stats)
  
- outputs: |
- - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.1.0
 
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
 
