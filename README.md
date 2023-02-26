@@ -57,7 +57,7 @@
 
 ## Frameworks 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg
+![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg?style=for-the-badge&logo=Qt&logoColor=white
 )
 
 
