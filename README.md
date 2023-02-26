@@ -48,12 +48,17 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
      <img src=https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg
  " title="C++" alt="C++" width="40" height="40"/>&nbsp;
+          <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg
+ " title="C++" alt="C++" width="40" height="40"/>&nbsp;                                          
+                                               
   
 </div>
 
 
 ## Frameworks 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg
+)
 
 
 ### :fire: My Stats :
