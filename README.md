@@ -47,9 +47,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
      <img src=https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg
- " title="C++" alt="C++" width="40" height="40"/>&nbsp;
+ " title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
           <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg
- " title="C++" alt="C++" width="40" height="40"/>&nbsp;                                          
+ " title="Java" alt="Java" width="40" height="40"/>&nbsp;                                          
                                                
   
 </div>
