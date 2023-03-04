@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Computer Science Student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaessam03&label=Profile%20views&color=0e75b6&style=flat" alt="ranaessam03" /> </p>
 
