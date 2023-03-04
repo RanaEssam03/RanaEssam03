@@ -1,3 +1,23 @@
+<h2>
+  <div id = "badges" align = "center" >
+
+   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Charka+Petch&weight=500&height=70&size=40&duration=4500&pause=700&color=F751AF&background=FFDBDB00&center=true&width=700&lines=Welcome+to+my+GitHub+😄)](https://git.io/typing-svg)
+  ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</div>
+
+ 
+</h2>
+
+<!-- <p align="left">
+  <img src="https://gpvc.arturio.dev/RanaEssam03" alt="profile views">  
+
+</p> -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+</div>
+
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaessam03&label=Profile%20views&color=0e75b6&style=flat" alt="ranaessam03" /> </p>
