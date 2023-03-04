@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaessam03" alt="ranaessam03" /></a> </p>
 
-- 🌱 I’m currently learning **flutter and SQL server**
+- 🌱 I’m currently learning **Database and Data Structure**
 
 - 💬 Ask me about **flutter and C++**
 
