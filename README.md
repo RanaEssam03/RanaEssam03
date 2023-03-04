@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **ranaessam03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QyQEU-_F1A1spG1LACZz8mvoxMaTLaZg/view?usp=sharing](https://drive.google.com/file/d/1QyQEU-_F1A1spG1LACZz8mvoxMaTLaZg/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
