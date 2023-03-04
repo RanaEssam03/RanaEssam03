@@ -36,8 +36,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rana-essam-a08760221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rana-essam-a08760221/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17409301/rana-essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rana-essam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rana.ranona.140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rana Essam" height="30" width="40" /></a>
-<a href="https://instagram.com/_ranaessam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ranaessam" height="30" width="40" /></a>
+
+
 <a href="https://discord.gg/#7381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7381" height="30" width="40" /></a>
 </p>
 
