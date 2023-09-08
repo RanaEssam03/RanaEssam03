@@ -31,12 +31,14 @@
 <!-- - 🌱 I’m currently learning **Database and Data Structure** -->
 
 <!-- - 💬 Ask me about **flutter and C++** -->
-
-<!--<p align = "center">- 📫 How to reach me <a href = "mailto:ranaessam03@gmail.com">ranaessam03@gmail.com</a></p>-->
-
-
-
 ## Connect with me:
+
+
+ <!--📫 How to reach me -->
+ **ranaessam03@gmail.com**
+
+
+
 <div align="center">
 <a href="https://www.linkedin.com/in/rana-essam-a08760221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rana-essam-a08760221/" height="30" width="40" /></a>
 <a href="https://discord.gg/#7381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7381" height="30" width="40" /></a>
