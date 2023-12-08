@@ -18,7 +18,9 @@
 <h3 align="center">A passionate Computer Science Student from Egypt</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+ <!-- <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/> -->
+ <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47rkjol4ym81w3jeu0amgmajk8fttin6tuywkjfkop&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
+  
 </div>
 
 
