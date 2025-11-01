@@ -17,7 +17,7 @@
   <img src="https://gpvc.arturio.dev/RanaEssam03" alt="profile views">  
 
 </p> -->
-<h3 align="center">A passionate Computer Science Student from Egypt</h3>
+<h3 align="center">DevOpd Engineer from Egypt</h3>
 
 <div id="header" align="center">
  <!-- <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/> -->
