@@ -40,7 +40,7 @@
 
 
  <!--📫 How to reach me -->
- **ranaessam@ieeecusb.org**
+ **rana.essam@vodafone.com**
 
 
 
